@@ -170,9 +170,9 @@ inclued_get_data( header(string))
         </div> <!-- .tm-main-content -->  
     </div>
     <!-- load JS -->
-    <script src="js/jquery-3.2.1.slim.min.js"></script>         <!-- https://jquery.com/ -->    
-    <script src="slick/slick.min.js"></script>                  <!-- http://kenwheeler.github.io/slick/ -->  
-    <script src="js/anime.min.js"></script>                     <!-- http://animejs.com/ -->
+    <script src="js/jquery-3.2.1.slim.min.js"></script>            
+    <script src="slick/slick.min.js"></script>                   
+    <script src="js/anime.min.js"></script>                     
     <script src="js/main.js"></script>  
     <script>      
 
